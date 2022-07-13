@@ -1,0 +1,16 @@
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\bin\Debug\Proyecto universitario.exe.config
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\bin\Debug\Proyecto universitario.exe
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\bin\Debug\Proyecto universitario.pdb
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\obj\Debug\Proyecto universitario.csproj.AssemblyReference.cache
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\obj\Debug\Proyecto universitario.csproj.SuggestedBindingRedirects.cache
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\obj\Debug\Proyecto universitario.csproj.CoreCompileInputs.cache
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\obj\Debug\Proyecto universitario.exe
+C:\Users\elman\source\repos\Proyecto Universitario\Proyecto universitario\obj\Debug\Proyecto universitario.pdb
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\bin\Debug\Proyecto universitario.exe.config
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\bin\Debug\Proyecto universitario.exe
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\bin\Debug\Proyecto universitario.pdb
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\obj\Debug\Proyecto universitario.csproj.AssemblyReference.cache
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\obj\Debug\Proyecto universitario.csproj.SuggestedBindingRedirects.cache
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\obj\Debug\Proyecto universitario.csproj.CoreCompileInputs.cache
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\obj\Debug\Proyecto universitario.exe
+C:\Users\elman\source\repos\ProyectoUniversitarioNitido\Proyecto universitario\obj\Debug\Proyecto universitario.pdb
