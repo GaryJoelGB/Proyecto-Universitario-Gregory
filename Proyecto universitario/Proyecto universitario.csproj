@@ -43,16 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Model\Cuatrimestres.cs" />
-    <Compile Include="Model\Documentos.cs" />
-    <Compile Include="Model\GetBecas.cs" />
+    <Compile Include="Data\CuatrimestreDatas.cs" />
+    <Compile Include="Data\DocumentoDatas.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Model\IntroducirNotas.cs" />
+    <Compile Include="Model\Calificaciones.cs" />
     <Compile Include="Model\Promedio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\CuatrimestreRepository.cs" />
+    <Compile Include="Repository\DocumentoRepository.cs" />
+    <Compile Include="Service\CuatrimestreService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

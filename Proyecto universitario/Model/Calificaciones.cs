@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Proyecto_universitario
 {
-    public class IntroducirNotas
+    public class Calificaciones
     {
+
         public double Examene { get; set; }
 
         public double Asistencia { get; set; }
